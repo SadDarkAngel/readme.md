@@ -1,0 +1,1 @@
+![A cat](https://github.com/SadDarkAngel/readme.md/blob/e0e49dc/cat.png)
